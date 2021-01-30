@@ -1,0 +1,16 @@
+{
+	"URL": "https://www.mypedia.pearson.com/login",
+	"loginEmail":"loginEmail",
+	"languageDropDown":"//div[@class='accountDetailsLangDropDown']",
+	"languageList":"//div[@role='presentation']//span",
+	"verifyLanguageDropDownVisibile":"//div[contains(@class,'accountDetailsLangDropDown') and contains(@style,'opacity')]",
+	"setUpParentSupportLink":"Set up parent support",
+	"createNewAccountLink":"//div//span[text()='CREATE A NEW ACCOUNT']",
+	"createAccountButtonVisibile":"//span[contains(text(),'CREATE ACCOUNT') and contains(@style,'opacity: 1;')]",
+	"firstNameInput":"//input[contains(@id,'Firstname')]",
+	"lastNameInput":"//input[contains(@id,'Lastname')]",
+	"emailAddressInput":"//input[contains(@id,'Emailaddress')]",
+	"createParentUserNameInput":"//input[contains(@id,'Createparentusername')]",
+	"createParentPasswordInput": "//input[contains(@id,'Createparentpassword')]",
+	"confirmPasswordInput":"//input[contains(@id,'Confirmpassword')]"
+}

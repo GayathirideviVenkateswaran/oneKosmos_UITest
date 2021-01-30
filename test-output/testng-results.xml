@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90321" started-at="2021-01-30T18:47:15Z" finished-at="2021-01-30T18:48:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90321" started-at="2021-01-30T18:47:15Z" finished-at="2021-01-30T18:48:45Z">
+      <class name="oneKosmos_UITest.UITest">
+        <test-method status="PASS" signature="beforeClassPediaTest(org.testng.ITestContext)[pri:0, instance:oneKosmos_UITest.UITest@105fece7]" name="beforeClassPediaTest" is-config="true" duration-ms="10756" started-at="2021-01-31T00:17:15Z" finished-at="2021-01-31T00:17:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@895e367]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClassPediaTest -->
+        <test-method status="PASS" signature="myPediaTest(org.testng.ITestContext)[pri:0, instance:oneKosmos_UITest.UITest@105fece7]" name="myPediaTest" duration-ms="79417" started-at="2021-01-31T00:17:26Z" finished-at="2021-01-31T00:18:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@895e367]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myPediaTest -->
+        <test-method status="PASS" signature="after_test()[pri:0, instance:oneKosmos_UITest.UITest@105fece7]" name="after_test" is-config="true" duration-ms="135" started-at="2021-01-31T00:18:45Z" finished-at="2021-01-31T00:18:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_test -->
+      </class> <!-- oneKosmos_UITest.UITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

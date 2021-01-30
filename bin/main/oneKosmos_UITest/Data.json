@@ -1,0 +1,9 @@
+{
+	"chromeDriver": "webdriver.chrome.driver",
+	"driverLocation":"/Users/gayathiv/Downloads/chromedriver 4",
+	"firstName":"FirstName",
+	"lastName":"LastName",
+	"email":"a@gmail.com",
+	"userName":"Testing1",
+	"password":"Password"
+}
